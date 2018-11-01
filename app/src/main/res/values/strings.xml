@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">McqCardView</string>
+    <string name="sample_text">Sample Text</string>
+
+    <!-- All Cricketer Name -->
+    <string-array name="tropic_name">
+        <item>Bangla </item>
+        <item>English </item>
+        <item>Math </item>
+        <item>ICT </item>
+
+    </string-array>
+
+
+    <!-- All Cricketer Image -->
+    <integer-array name="tropics_image">
+        <item>@drawable/bangla</item>
+        <item>@drawable/english_logo</item>
+        <item>@drawable/math_logo</item>
+        <item>@drawable/ict</item>
+
+    </integer-array>
+
+</resources>
