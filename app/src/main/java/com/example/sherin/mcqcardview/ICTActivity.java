@@ -8,7 +8,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class ICTActivity extends AppCompatActivity {
-    private String ict = "Not Found";
+    private String ict = "Android MCQ ";
 
     private TextView tvTitle, tvDetails;
 
@@ -34,12 +34,16 @@ public class ICTActivity extends AppCompatActivity {
         tvDetails = findViewById(R.id.tvDetailsInfoId);
         tvTitle.setText(ict);
 
-        Typeface typeface = Typeface.createFromAsset(getAssets(), "BrotherTattoo_Demo.ttf");
+        String s = getResources().getString(R.string.ict);
+        tvDetails.setText(s);
 
-        tvTitle.setTypeface(typeface);
+
+       /* Typeface typeface = Typeface.createFromAsset(getAssets(), "BrotherTattoo_Demo.ttf");
+
+        tvTitle.setTypeface(typeface);*/
 
 
-        if (ict.equalsIgnoreCase("ict")) {
+       /* if (ict.equalsIgnoreCase("ict")) {
 
             String s = getResources().getString(R.string.ict);
             tvDetails.setText(s);
@@ -47,7 +51,7 @@ public class ICTActivity extends AppCompatActivity {
         }
         else{
             Toast.makeText(this, "no sucessfully", Toast.LENGTH_SHORT).show();
-        }
+        }*/
     }
 
 

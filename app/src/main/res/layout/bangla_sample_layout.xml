@@ -4,24 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
     android:orientation="vertical"
     tools:context=".BanglaActivity">
 
-   <!-- <TextView
-        android:textSize="25sp"
-        android:textAlignment="center"
-        android:textStyle="bold|italic"
-        android:text="welcome ICT mcq"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
--->
 
     <TextView
-        android:id="@+id/tvDistId"
+        android:id="@+id/banglaMCQId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ICT"
+        android:text="Dhaka"
         android:textAlignment="center"
         android:textColor="#e93232"
         android:textSize="35sp"
@@ -42,9 +33,11 @@
             android:textColor="#000"
             android:text="Details"
             android:editable="true"
-            android:textAlignment="textStart"
-            android:textStyle="italic"
-            android:gravity="start" />
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textStyle="italic" />
 
     </ScrollView>
+
+
 </LinearLayout>

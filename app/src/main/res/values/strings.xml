@@ -10,6 +10,12 @@
         <item>ICT </item>
 
     </string-array>
+    <string-array name="bangla_topics">
+        <item>বাংলা প্রথম পত্র  </item>
+        <item>বাংলা ২য় পত্র</item>
+
+    </string-array>
+
 
 
     <!-- All Cricketer Image -->
@@ -22,28 +28,1199 @@
     </integer-array>
 
 
-    <string name="ict">
-        Dhaka District, Dhaka Jela also Dhaka Zila)\n
-        is a district in central Bangladesh,[2] and
-        is the densest district in the nation. It is
-        a part of the Dhaka Division. Dhaka, the capital
-        of Bangladesh, rests on the eastern banks of the
-        Buriganga River which flows from the Turag to the
-        south of the district. While Dhaka (city corporation)
-        occupies only about a fifth of the area of Dhaka district,
-        it is the economic, political and cultural centre of the
-        district and the country as a whole. Dhaka District is an
-        administrative entity, and like many other cities, it does
-        not cover the modern conurbation which is Greater Dhaka,
-        which has spilled into neighbouring districts, nor does
-        the conurbation cover the whole district, as there are
-        rural areas within the district.
 
-          administrative entity, and like many other cities, it does
-        not cover the modern conurbation which is Greater Dhaka,
-        which has spilled into neighbouring districts, nor does
-        the conurbation cover the whole district, as there are
-        rural areas within the district.
+   <!-- //Bangla
+-->
+
+
+    <string name="bangla_1st">
+
+        ১.চুরি করার প্রয়োজন নেই বলে কারা চুরি করেনা? \n
+উত্তর: সাধুরা\n
+
+২.উদ্দিপকের শফিক ‘অপরিচিতা’ গল্পের কোন চরিত্রের প্রতিনিধি\n
+
+উত্তর: হরিশ \n
+
+৩.কোন কারণে উদ্দিপকের আদিব ও ‘অপরিচিতা’ গল্পের অনুপম সাদৃশ্যপূর্ণ? \n
+
+উত্তর: (গ) ii ও iii
+৪.”গ্রামের ছেলে গ্রামে বাস করবে।”______ ‘আহ্বান’ গল্পের এই বাক্যে প্রকাশ পেয়েছে গ্রামের প্রতি/উপর____ \n
+
+উত্তর: (গ) ভালোবাসা\n
+
+৫.’মহাজাগতিক কিউরেটর’ গল্পে প্রাণের শুরু হয়েছে কোনটি থেকে?\n
+উত্তর: (ঘ) ভাইরাস\n
+
+৬.”স্বচক্ষে দেখেছ রক্ষঃশ্রেষ্ঠ, পরাক্রম দাসের!”_______ \n
+নিজেকে দাস বলার পিছনে মেঘনাদের কোন মনোভাবটি ক্রিয়াশীল?\n
+
+উত্তর: (গ) অহমিকা\n
+৭.’লোক লোকান্তর’ কবিতায় “আহত কবির গান”______ পঙক্তিটিতে কবি আহত কেন?\n
+
+উত্তর: (গ) স্বপ্ন ও বাস্তবতার টানাপোড়নে\n
+
+৮.আমার পথ প্রবন্ধ ও উদ্দিপকে উল্লিখিত কোন অভিন্ন কারণে শম্ভু মামুনের বাড়িতে যাওয়া থেকে বিরত থাকে?\n
+
+উত্তর: (ক) ধর্মীয় গোঁড়ামি\n
+৯.উদ্দিপকের শম্ভুর সাথে ‘আমার পথ’ প্রবন্ধের লেখকের স্বাতন্ত্র্য কীসে?\n
+উত্তর: (গ) সংস্কৃতিতে\n
+
+১০.কোন নদীর কাজল বুকে পালিতে গলিত হেম?\n
+
+উত্তর: (গ) সুরমা\n
+১১.চাবুকের বাড়ির দিকে নুরুল হুদার আর মনোযোগ দেওয়া হয়ে ওঠেনা কেন?\n
+
+উত্তর: (গ) মুক্তিযুদ্ধাদের সম্পর্কে গভীর ভাবনায়\n
+
+১২.উদ্দীপকের মুন্না ‘তাহারেই পড়ে মনে’ কবিতার কোন চরিত্রের কথা মনে করিয়ে দেয়?\n
+
+উত্তর: (ক) কবি\n
+১৩.উদ্দীপকে ও ‘তাহারেই পড়ে মনে’ কবিতায় যুগপৎভাবে ফুঠে উঠেছে____\n
+
+উত্তর: (ঘ) i,iiও iii\n
+
+১৪.”কেন এই পন্ডশ্রম, মগজে হানিছ শূল।” ______ কবি কেন এমন উক্তি করেছেন?\n
+উত্তর: (খ) বিভিন্ন ধর্মগ্রন্থ মুখস্থ করায়\n
+
+১৫.সিরাজউদ্দৌলা প্রজাসাধারণের কাছে নিজেকে অপরাধী মনে করার অন্তর্নিহিত কারণ, তিনি____\n
+
+উত্তর: (ক) প্রজাদের সুখ-স্বাচ্ছন্দ্যের বিধান করতে পারে নি\n
+
+১৬.’ঐকতান’ কবিতার কবি অক্ষয় উৎসাহে কী পড়েন?\n
+
+উত্তর: (গ) ভ্রমণবৃত্তান্ত\n
+
+১৭.’লালসালু’ উপন্যাসে কোচবিদ্ধ হয়ে নিহত হয় কে?\n
+
+উত্তর: (গ) ছমিরুদ্দিন\n
+
+১৮.’আঠারো বছর বয়স’ কবিতায় উল্লিখিত আঠারো বছর বয়সের কোন বৈশিষ্ট্যটি উদ্দিপকে ফুটে উঠেছে?\n
+
+উত্তর: (ক) আত্মপ্রত্যয়\n
+
+১৯.নিচের কোন চরণে উক্ত বৈশিষ্ট্যটি প্রকাশ পেয়েছে?\n
+উত্তর: (ঘ) এ বয়সে তাই নেই কোন সংশয়\n
+২০.নুসরত শাহের আশরাফপুর শিলালিপি কোন হরফে লেখা?\n
+উত্তর: (গ) তুঘরা\n
+
+২১.মোতাহের হোসেন চৌধুরী বৃক্ষের জীবনে কোন দুটি জিনিস উপলব্ধি করার পক্ষপাতী?\n
+
+উত্তর: (ঘ) স্থৈর্য ও নীরবতা\n
+২২.উদ্দীপকের সৌদামিনীর স্বামীর মধ্যে “লালসালু” উপন্যাসের কোন চরিত্রের মানসিকতা বিদ্যমান?\n
+
+উত্তর: (গ) মজিদের\n
+
+২৩.উদ্দীপকে এবং লালসালু উপন্যাসে আমাদের সমাজের কোন অসঙ্গতি বিদ্যমান?\n
+
+উত্তর: (খ) বহুবিবাহ\n
+
+২৪.”দারোগাবাবু এসে বসে আছেন বাবুর সাথে ।” ‘মাসিপিসি’ গল্পের এ বাক্যে প্রকাশ পায়____\n
+
+উত্তর: (গ) iiও iii\n
+২৫.’বায়ান্নর দিনগুলো’ রচনার কথকের সত্তায় কী লক্ষ্য করা যায়?\n
+
+উত্তর: (ক) দৃঢ়চেতা মনোভাব\n
+২৬.’ফ্রেবুয়ারী ১৯৬৯’ কবিতার লক্ষনীয় বিষয়___\n
+
+উত্তর: (ঘ) i,iiও iii\n
+
+২৭.’এই পৃথিবীতে এক স্থানে আছে’ কবিতায় ধানের গন্ধের মতো অস্ফুট কে?\n
+
+উত্তর: (গ) লক্ষ্মীপেঁচা\n
+২৮.উদ্দীপকের কালামের সাথে ‘সিরাজউদ্দৌলা’ নাটকের কোন চরিত্রকে তুলনা করা যায়?\n
+
+উত্তর: (গ) সাঁফ্রে\n
+২৯.এরূপ তুলনার কারণ, উভয়েই____\n
+
+উত্তর: (ঘ) i,iiও iii\n
+
+৩০.’সেই অস্ত্র’ কবিতায় কবির কাঙ্ক্ষিত অস্ত্র উত্তোলিত হলে কী খাঁ খাঁ করবে না?\n
+
+উত্তর: (খ) গৃহস্থালি\n
+
+
+    </string>
+
+
+    <string name="bangla_2nd">
+
+
+
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--ICT
+-->
+    <string name="ict">
+
+        201. Which of these classes are used by character streams output operations ?\n
+        a) ReadStream\n
+        b) Writer \n
+        c) InputStream \n
+        d) InputOutputStream\n\n
+    Correct : b) Writer\n\n
+
+        202. How to store heavy structured data in android ?\n
+a) Shared Preferences\n
+        b) Cursor \n
+        c) SQlite database\n
+        d) Not possible\n\n
+Correct : c) SQlite database\n\n
+
+
+203. What are the wake locks available in android ?\n
+        a) PARTIAL_WAKE_LOCK\n
+        b) SCREEN_DIM_WAKE_LOCK\n
+        c) SCREEN_BRIGHT_WAKE_LOCK \n
+        d) FULL_WAKE_LOCK\n\n
+Correct : d) FULL_WAKE_LOCK\n\n
+
+204. What are the functionalities in asyncTask in android ?\n
+a) onPostExecution()\n b) onProgressUpdate()\n
+c) onPreExecution() \nd) doInBackground()\n\n
+Correct : a) onPostExecution() Note: [All are correct ]\n\n
+205. Fragment in Android can be found through\n
+a) findByID() b) findFragmentByID() c) findFragmentByName()\n
+d) FragmentManager.findFragmentByID()\n\n
+Correct : d) FragmentManager.findFragmentByID()\n\n
+206. Is it possible activity without UI in android ?\n\n
+a) No, its not possible \nb) Yes, its possible \nc) We ca not say \nd) None of
+the above\n
+Correct : b) Yes, its possible \n\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        303. What is An Intent in android\n
+a) a view objectt\n
+        b) a messaging object \n
+        c) A and B \n
+        d) None of them\n\n
+  Correct : b) a messaging object\n\n
+
+304. What is An Activity\n
+   a) An Activity represents a multiple screens in an app\n
+   b) An Activity represents a single screen in an app\n
+   c) An Activity represents exactly two screens in an app d) All of them\n\n
+
+  Correct : b) An Activity represents a single screen in an app\n\n
+
+305. Whan is A Service\n
+   a) A Service is a component that performs operations in the background without a user interface.\n
+   b) A Service is a component that performs operations in the background with a user interface.\n
+   c) A Service is a component that performs operations in the foreground without a user interface.\n
+   d) A Service is a component that performs operations in the foreground with a user interface.\n
+  Correct : a) A Service is a component that performs operations in the background without a user interface.\n\n
+
+306. How many types of Intent are\n
+        a) 3 \n
+        b) 4 \n
+        c) 5\n
+        d) 2\n\n
+  Correct : d) 2\n\n
+
+307. Which of the followings are intent\n
+        a) Explicit intents\n
+        b) Modern intents\n
+        c) Implicit intents \n
+        d) Call intents\n\n
+  Correct : a) A and C\n\n
+
+308. What is the name of the activity allows itself to be started by a web browser to display data referenced by a
+        link, such as an image or an e-mail message.\n\n
+
+        a) CATEGORY_BROWSABLE \n
+        b) CATEGORY_LAUNCHER \n
+        c) CATEGORY_BROWSE\n
+        d) All of them\n\n
+
+   Correct :a) CATEGORY_BROWSABLE\n\n
+
+        309. What if Flags in Intent\n\n
+        a) Metadat for an intent\n
+        b) Metadat for an Bundle \n
+        c) All of them \n
+        d) one of them\n\n
+
+    Correct : b) Metadat for an intent\n\n
+
+        311. What is the function of ACTION_MAIN\n
+        a) to indicates main entry point and does not expect any intent data\n
+        b) to indicates main entry point and expects any intent data\n
+        c) to indicates any entry point and expects any intent data\n
+        d) to indicates any entry point and does not expect any intent data\n\n
+
+    Correct : a) to indicates main entry point and does not expect any intent data\n\n
+
+312. How to create a Intent launching the Browser From Your Android Applications\n
+        a) Intent launchBrowser = Intent(Intent.ACTION_VIEW, uriUrl);\n
+        b) Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl);\n
+        c) Intent = new Intent(Intent.ACTION_VIEW, uriUrl);\n
+        d) All of them\n\n
+    Correct : b) Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl);\n\n
+
+313. Which of the following is done to enable Web Searches\n
+            a) Intent search = Intent(Intent.ACTION_WEB_SEARCH);\n
+            b) Intent search = new Intent(Intent.ACTION_WEB_SEARCH);\n
+            c) search = new Intent(Intent.ACTION_WEB_SEARCH); d) None of them\n\n
+     Correct : b) Intent search = new Intent(Intent.ACTION_WEB_SEARCH);\n\n
+
+314. What is the function of Layout\n
+a) to defines the structure for a user interface in your app\n
+b) to defines the structure for an intent in your app\n
+c) to defines the structure for a storyboard in your app\n
+d) None of them\n
+Correct : a) to defines the structure for a user interface in your app\n\n
+
+315. Which objects are responsible to build all elements in a layout\n
+a) View and ViewGroup\n
+       b) View and Scene\n
+        c) View and Intent\n
+        d) ViewGroup and scene\n
+Correct : a) View and ViewGroup\n\n
+
+316. a ViewGroup is\n
+a) visible container\n
+        b) All of them \n
+        c) an invisible container\n
+        d) None of them\n
+Correct : c) an invisible container\n\n
+
+317. The syntax for an ID, inside an XML tag is:\n
+a) android:id="+id/my_button" \n
+        b) android:id="@+id/my_button"\n
+c) android:id="id/my_button"\n
+        d) All of them\n
+Correct : b) android:id="@+id/my_button"\n\n
+
+318. What is the name of the APIs used to play audio and video files\n
+a) CDPLayer APIs \n
+        b) Player APIs \n
+        c) AudioVideo APIs \n
+        d) MediaPlayer APIs\n
+Correct : d) MediaPlayer APIs\n\n
+
+319. What is retrofit android ?\n
+a) type safe REST Client \n
+        b) Type safe client \n
+        c) Client \n
+        d) Session\n
+Correct : a) type safe REST Client\n\n
+
+320. What is the aim of Retrofit?\n
+a) consume all services\n
+        b) consume restful services \n
+        c) consume web services d) none\n
+Correct : b) consume restful services\n\n
+
+321. What is by default being leaveraged by Retrofit 2?\n
+a) Http \n
+        b) Https \n
+        ) OkHttp \n
+        d) SMTP\n
+Correct : c) OKHttp\n\n
+
+322. In which, OkHttp works as a networking layer?\n
+a) RetroFit\n
+        b) Retro \n
+        c) Retrofit 1\n
+        d)Retrofit 2\n
+Correct : d)Retrofit 2\n\n
+
+323. What is Volley?\n
+a) Http Library \n
+        b) Https Library \n
+        ) SMTP library \n
+        d) retrofit library\n
+Correct : a) Http Library\n\n
+
+324. What is the advantage of volley in android?\n
+a) Graphics \n
+        b) Networking \n
+        c) File Transfer\n
+        d) Image\n
+Correct : b) Networking\n\n
+
+325. Which service is not offered by Volley?\n
+a) Auto Scheduling\n
+        b) Multiple Connections\n
+        c) Debugging and tracing\n
+        d) Auto Ordering\n
+Correct : d) Auto Ordering\n\n
+
+326. Which service is offered by Volley?\n
+a) Transparent Scheduling\n
+        b) Multiple Cancellation\n
+        c) Debugging and tracing\n
+d. Auto Ordering\n
+Correct : c) Debugging and tracing\n\n
+
+327. UI is populated by Volley using __ fill the gap\n
+a) RPC type operations\n
+        b) PPC type operations \n
+        c) API type operations \n
+        d) both a and b\n\
+Corerct : a) RPC type operations\n\n
+
+328. How a page of search is fetched by Volley ?\n
+a) Structured array \n
+        b) String data\n
+        c) Structured Data\n
+        d) none\n
+Correct : c) Structured Data\n\n
+
+329. Which uses HTTP as an underlying protocol ?\n
+a) World Wide Wan \n
+        b) World Wide Wap\n
+        c) World Wide Web\n
+        d) Email\n
+Correct : c) World Wide Web\n\n
+
+330. Which are methods of HTTP ?\n
+a) POST and RETURN \n
+        b) POST and GET\n
+        c) GET and RETURN\n
+        d) RETURN\n
+Correct : b) POST and GET\n\n
+
+331. Which method of HTTP requests data?\n
+a) POST b) GET c) RETURN d) None\n
+Correct : b) GET\n
+332. Which method of HTTP submits data ?\n
+a) POST b) GET c) RETURN d) None\n
+Correct : a) POST\n\n
+333. Which method of HttpURLConnection obtain a new HttpURLConnection ?\n
+a) POST b) URL.openConnection c) URL.connection d) GET\n
+Correct : b) URL.openConnection\n
+334. What are included in URI. Request headers metadata ?\n
+a) credentials b) preferred content type c) session cookies d) all of three\n
+Correct : d) all of three\n\n
+335. With which, instances of URLConnection class must be initialized if they contain a
+request body ?\n
+a) setDoOutput(true) \nb) setDoInput(true) \nc) setOutput(true) \nd) setInput(true)\n
+Correct : a) setDoOutput(true)\n\n
+336. Which method returns the stream which is used by URLConnection class for output ?\n
+a) getOutput b) getInputStream c) getOutputStream d) getInput\n
+Correct : c) getOutputStream
+337. Which is not imcluded in response headers metadata ?\n
+a) Response Body Content b) Response Body Type c) response body Length\n
+d. Response Body History\n
+Correct : d) Response Body History\n\n
+338. Which are included in response headers metadata?\n
+a) Response Body Content b) Response Body Type c) response body Length d) all of three\n\n
+Correct : d) all of three\n\n
+339. What is returned by getInputStream if response has no body ?\n
+a) ouput Stream b) empty stream c) input stream d) null\n
+Correct : b) empty stream\n\n
+340. Which method closes the HTTPURLConnection ?\n
+a) disclose b) close c) disconnect d) disrupt\n
+Correct : c) disconnect\n\n
+341. How many redirects HttpURLConnection will follow up to?\n
+a) 5 b) 6 c) 3 d) 4\n
+Correct : a) 5\n\n
+342. Which method configures the connection for uploading data to a web server ?\n
+a) setOutput b) setUpload c) setDoUpload d) setDoOutput\n
+Correct : d) setDoOutput\n\n
+343. When body length of data is known, which method should be called when uploading data ?\n
+a) setFixedLengthMode b) setFixedStreamingMode c) setFixedLengthStreamingMode\n
+d) setFixedMode\n
+Correct : c) setFixedLengthStreamingMode\n\n
+344. When body length of data is not known, which method should be called when uploading data?\n
+a) setChunkedLengthMode b) setStreamingMode\n
+c) setChunkedStreamingMode d) setChunkedMode\n
+Correct : c) setChunkedStreamingMode\n\n
+345. InputStream and OutputStream returned by HttpURLConnnection class are __?\n
+a) buffered b) serialized c) unbuffered d) unserialized\n
+Correct : c) unbuffered\n\n
+346. What HttpURLConnection class should do for reducing latency?\n
+a) use same socket for maultiple request b) use same socket for multiple response\n
+c) borh a and b d) none\n
+Correct : c) borh a and b\n\n
+347. HTTP connections may be held __ longer than necessary.\n
+a) closed b) open c) partially open d) partially closed\n
+Correct : b) open\n
+348. What the disconnect method of HTTP connection might return ?\n\n
+a) socket b) JSON array c) Unicode Character array d) NSMUtableString\n
+Correct : a) socket\n
+349. What type of compression is requested by the HttpURLConnection to the servers?\n
+a) gasip b) zip c) rar d) gzip\n
+Correct : d) gzip\n
+350. Which method of HttpURLConnection is used for data decompression?\n
+a) getInputStream b) getOutputStream c) getInput d) None\n
+Correct : a) getInputStream\n\n
+351. How Gzip compression can be disabled ?\n
+a) acceptable encodings in header b) acceptable stream c) special encodings at header d) none\n
+Correct : a) acceptable encodings in header\n\n
+352. What getInputStream returns when the string is exhausted?\n
+a) 0 b) -1 c) 3 d) 1\n
+Correct : b) -1\n\n
+353. Which method returns the number of bytes transferred?\n
+a) getLength b) length c) contentLength d) getContentLength\n
+Correct : b) UIImage\n\n
+354. Which method tests connection redirection?\n
+a) getURL b) getHttp c) URI d) getURI\n
+Correct : a) getURL\n\n
+355. Which method triggers the receiving of response headers ?\n
+a) getHeaderFields b) getInputStream c) both a and b d) none\n
+Correct : c) both a and b\n\n
+356. Which class includes all extensible cookie manager ?\n
+a) HttpURL b) HttpURLConnection c) HttpHeader d) none\n
+Correct : b) HttpURLConnection\n\n
+357. Where the default cookie manager keeps all the accepted cookies?\n
+a) server b) file c) cache d) memory\n
+Correct : d) memory\n\n
+358. What the cookies must have set to be included in headers?\n
+a) domain properties b) path properties c) server properties d) both a and b\n
+Correct : d) both a and b\n
+359. What is the cookie version should be set for compatibility with most servers?\n
+a) 11 b) 0 c) 1 d) -1\n
+Correct : b) 0\n
+360. Which method is used by HttpURLConnection by default?\n
+a) GET b) POST c) RETURN d) None\n
+Correct : a) GET\n
+361. Which method causes the HttpURLConnection to use POST method ?\n
+a) setDO b) setOutput c) setDoOutput d) set\n
+Correct : c) setDoOutput\n
+362. Which method is used to use a proxy?\n
+a) URL.openConnection(Proxy) b) URL.Connection(Proxy) c) URL.open(Proxy)\n
+d) URL.(Proxy)\n
+Correct : a) URL.openConnection(Proxy)\n
+363. Which version of android includes a response cache?\n
+a) Android 1 b) Android 2 c) Android 4 d) Android 3.2\n
+Correct : c) Android 4\n
+364. With what type of servers, new instances of cookies work?\n
+a) that support RFC 2965 cookies b) that support RFC 2695 cookies\n
+c) that support RFC 2665 cookies d) both a and b\n
+Correct : a) that support RFC 2965 cookies\n
+365. What should be Implemented to define a custom cookie store?\n
+a) store b) cookieServer c) cookieDepot d) CookieStore\n
+Correct : d) CookieStore\n\n
+363. Which one is a HTTP method?\n
+a) GET b) DELETE c) TRACE d) all of three\n
+Correct : d) all of three\n\n
+364. Which one is not a HTTP method?\n
+a) HEAD b) DELETE c) TRACE d) TAIL\n
+Correct : d) TAIL\n\n
+365. In array handling of JSON streams which method should be called first?\n
+a) beginArray b) startArray c) readArray d) array\n
+Correct : a) beginArray\n\n
+366. In array handling of JSON streams which method should be called to read the closing bracket ?\n
+a) endArray() b) finishArray() c) end() d) Array\n
+Correct : a) endArray()\n\n
+367. In object handling of JSON streams which method should be called first ?\n
+a) begin b) startObject c) beginObject d) object\n
+Correct : c) beginObject\n
+368. In object handling of JSON streams which method should be called to read the closing bracket?\n
+a) end() b) finishObject c) endObj() d) endObject()\n
+Correct : d) endObject()\n
+369. Which method is common in both array handling and object handling of JSON streams ?\n
+a) beginArray b) beginObject c) endObject d) hasNext\n
+Correct : d) hasNext\n\n
+370. When an unknown name is encountered, what strict parsers should do?\n
+a) Continue b) Fail c) Pass d) None\n
+Correct : b) Fail\n
+371. Which method checks if a value is null ?\n
+a) peek b) nullFinder c) read d) hasNext\n
+Correct : a) peek\n
+372. Which method consumes null literals ?\n
+a) nextPeek b) peek c) nextNull d) none\n
+Correct : c) nextNull\n
+373. Which method sorks alike nextNull ?\n
+a) getNull b) skipValue c) nextValue d) getNext\n
+Correct : b) skipValue\n
+374. How JSON reader reads numeric values ?\n
+a) usual way b) as string c) both a and b d) as structure\n\n
+Correct : c) both a and b\n\n
+375. In which way , JSON reader permits to read string values ?\n
+a) as numbers b) as array c) as structure d) none\n
+Correct : a) as numbers\n
+376. Which method works to read next element from JSON array ?\n
+a) nextInt b) nextString c) both a and b d) none\n
+Correct : c) both a and b\n
+377. To minimize loss, how large numeric values should be written in JSON ?\n
+a) as string b) as array c) as it is d) none\n
+Correct : a) as string\n
+378. To maintain precision, how large numeric values should be read in JSON?\n
+a) as string b) as array c) as structure d) as ponter\n
+Correct : a) as string\n
+379. How many JSON streams a JSON reader should read ?\n
+a) double stream b) single JSON stream c) mixed data stream d) null stream\n
+Correct : b) single JSON stream\n
+380. JSON reader is __. Fill the gap\n
+a) thread vulnurable b) thread safe c) not threadsafe d) risky\n
+Correct : c) not threadsafe\n
+381. Which one helps us to perform background tasks without altering threads ?\n
+a) resyncTask b) threadTask c) syncTask d) AsyncTask\n
+Correct : d) AsyncTask\n
+382. Which method is invoked on Uithread before any task is executed ?\n
+a) onPreExecute() b) onExecute() c) onReExecute() d) onPriExecute()\n
+Correct : a) onPreExecute()\n
+383. How many kinds of parameters are there for Async Task ?\n
+a) 2 b) 3 c) 4 d) 5\n
+Correct : b) 3\n
+384. What is the "Params" parameter type of Async Task ?\n
+a) array b) integer c) string d) structure\n
+Correct : c) string\n
+385. What is the "Progress" parameter type of Async Task ?\n
+a) array b) integer c) string d) void\n
+Correct : d) void\n
+386. What is the "Result" parameter type of Async Task ?\n
+a) Bitmap b) HashMap c) String d) Void\n
+Correct : a) Bitmap\n
+387. Which method downloads content in Async Task ?\n
+a) onProgressUpdate() b) publishProgress() c) doInBackground() d) Progress()\n
+Correct : c) doInBackground()\n
+388. Which method updates the percent progress in Async Task ?\n
+a) onProgressUpdate() b) publishProgress() c) doInBackground() d) Progress()\n
+Correct : a) onProgressUpdate()\n\n
+389. Which method computes the total number of bytes in Async Task ?\n
+a) onProgressUpdate() b) publishProgress() c) doInBackground() d) Progress()\n\n
+Correct : c) doInBackground()\n\n
+390. Who is responsible for handling messages and runables ?\n
+a) thread b) handler c) compiler d) operating system\n
+Correct : b) handler\n\n
+391. What the "@Path" annotation in retrofit denotes for ?\n
+a) variable substitution for the API endpoint b) variable path for the API endpoint\n
+c) variable for the API endpoint d) path substitution for the API endpoint\n
+Correct : a) variable substitution for the API endpoint\n\n
+392. What the "@Query" annotation in retrofit denotes for ?\n
+a) specifies the query key name b) specifies the query name\n
+c) specifies the key name d) specifies the name\n
+Correct : a) specifies the query key name\n
+393. What the "@Body" annotation in retrofit denotes for ?\n
+a) payload for call b) payload for the GET call\n
+c) payload for the POST call d) payload for the POST\n
+Correct : c) payload for the POST call\n\n
+394. Headers can be added to a request using an Interceptor\n
+a) Inceptor b) Interruptor c) Interpretor d) Interceptor\n
+Correct : d) Interceptor\n\n
+395. Which of the following is not an extra field in android email ?\n
+a) EXTRA_TITLE b) EXTRA_TEXT c) EXTRA_SUBJECT d) EXTRA_BODY\n
+Correct : d) EXTRA_BODY\n\n
+396. What is SQLite ?\n
+a) It is an automatically integrated with cloud service\n
+b) It is a temporary file and then replacing the current document\n
+c) It is an in-process which is a Zero configured, self-contained and serverless\n
+d) It is a library that implements a lightweight embedded relational Database\n
+Correct : c) It is an in-process which is a Zero configured,
+        self-contained and serverless\n
+397. What is the meaning of Self Contained ?\n
+a) Self Dependencies b) External dependcies \n
+        c) Self motivation d) No external dependencies\n
+Correct : d) No external dependencies\n
+398. What is SQLite transaction ?\n
+a) UNIX process b) ACID compliant c) LINUX process d) None\n
+Correct : b) ACID compliant\n\n
+399. SQLite is written in\n
+a) C++ b) JAVA c) ANSI C d) PHP\n
+Correct : c) ANSI C\n\n
+400. What does mean of DDL ?\n
+a) Data Decline Language b) Data Distribution Language\n
+c) Data Transfer of Distributing Language d) Data Definition Language\n
+Correct : d) Data Definition Language\n\n
+401. What is the command of DDL ?\n
+a) INSERT b) ALTER c) SELECT d) None\n
+Correct : b) ALTER\n\n
+402. What is SQLiteManager ?\n
+a) a database manager for SQLite database b) a database manager for SQL\n
+c) It is control the all documents of database d) No one\n
+Correct : a) a database manager for SQLite database\n\n
+403. What does the mean Of DQL ?\n
+a) Data Query Language b) Data Qualification Language\n
+c) Data Manipulate Language d) none\n
+Correct : a) Data Query Language\n\n
+404. What is the command for DQL ?\n
+a) UPDATE b) DELETE c) VIEW d) SELECT\n
+Correct : d) SELECT\n\n
+405. Which of the following command is “DROP” ?\n
+a) DQL b) DDL c) DML d)none\n
+Correct : b) DDL\n\n
+406. Which of the following meaning is DML?\n
+a) Data Manipulate Language b) Data Manipulation Language\n
+c) Data Device Manipulation Language d) Data Magnification language\n
+Correct : b) Data Manipulation Language\n
+<!--407. " <standard_prefix>://<authority>/<data_path>/<id>
+What you will write in place of <standard_prefix>?"
+a) Content b) Object c) ContentProvider d) No one
+Correct : a) Content-->
+408. " Choose the correct option according to the given option.\n
+Statement 1: A content provider behaves very much like a database — you
+        can query it, edit its content, as well as add or delete content.\n
+Statement 2: Content providers let you centralize content in one place and have
+        many different applications access it as needed.\n
+Statement 3: A content provider does not provide the facility to centralize content. "\n
+a) Option 1 is correct. b) Option 2 is correct.\n
+c) Option 1and 2 is correct. d) Option 2 and 3 is correct\n
+Correct : c) Option 1and 2 is correct.\n
+409. Which of the following is the meaning of “CRUD” ?\n
+a) create, retrieve, update, and drop
+        \n b) create, retrieve, update, and delete\n
+c) create, return, unite, and delete d)none\n
+Correct : b) create, retrieve, update, and delete\n\n
+410. " If you want to share the data from one application to other applications,
+which of the following you will use? "v
+a) SQLiteDatabases b) Internal Storage
+        \nc) Content Provider d) None of the above\n
+Correct : c) Content Provider\n\n
+411. To share data across packages in Android which one you will prefer ?\n
+a) Shared Preference b) Content Provider c) Data provider d) None of the above\n
+Correct : b) Content Provider\n\n
+412. Identifies data in a provider-\n
+a) Content provider b) Data Provider c) Content URI d) Shared Preference\n
+Correct : c) Content URI\n\n
+413. Which of the following statement is True ?\n
+a) TheContentResolver can then dispatch the query arguments to the correct provider\n
+b) The ContentProvider uses the path part of the
+        content URI to choose the table to access.\n
+c) a and b is true d) none\n
+Correct : c) a and b is true\n
+414. For Creating your own content provider which class you will prefer ?\n
+a) Conten b) Content Provider c) Object d) None of the above\n
+Correct : b) Content Provider\n
+415. How many frequency of Applet ?\n
+a) 220 b) 225 c) 250 d) 255\n
+Correct : b) 225\n
+416. What is the uses of cursor loader ?\n
+a) A callback interface you must implement b) The base class for all loaders\n
+c) An implementation that uses an AsyncTask to do its work\n
+d) A subclass of AsyncTask Loader for accessing ContentProvider Data\n
+Correct : d) A subclass of AsyncTask Loader for accessing ContentProvider Data\n\n
+417. What is/are storage option available in android ?\n
+a) SharedPreference b) SQLiteDatabase
+        \nc) ContentProvider d) All of the above\n
+Correct : d) All of the above\n
+418. What is Loader?\n
+a) Loading data a content provider or other data
+        \nsource for display in an FragmentActivity or Fragment
+b) Changing and encapsulating a value\n
+c) Converting a group of related object that can be stored
+        and transferred d) None of the above\n
+Correct : a) Loading data a content provider or other data
+        source for display in an FragmentActivity or Fragment\n\n
+419. Why does loader run on separate thread ?\n
+a) To prevent from a dangerous software b) To prevent janky or unresponsive UI\n
+c) Option b is false d) Option a is true\n
+Correct : b) To prevent janky or unresponsive UI\n\n
+420. How does the Loaders simplify a thread management ?\n
+a) By providing receiver methods when event occur\n
+b) By providing callback methods when event occur\n
+c) By providing calling process when event occur d) All of the above\n
+Correct : b) By providing callback methods when event occur\n\n
+421. What does we do to prevent duplicate queries ?\n
+a) Loaders persist a callback method \n
+        b) Loaders persist to prevent janky or unresponsive UI\n
+c) Loaders persist and cache result across configuration changes \n
+        d) Which of the following\n
+Correct : b) Loaders persist to prevent janky or unresponsive UI\n\n
+422. Which of the following statement is true ?\n
+a) Loading data a content provider or other data source for
+        display in an FragmentActivity or Fragment\n
+b) Loaders can implement an observer to mon\n
+c) Option 1 is false b) Option 2 is false\n
+Correct : a) Loading data a content provider or other data
+        source for display in an FragmentActivity or Fragment\n\n
+423. Characteristics of the Loaders ?\n
+a) They are available to every Activity and Fragment\n
+        b) They provide asynchronous loading of data\n
+c) They monitor the source of their data and deliver new
+        result when the content changes\n
+d) All of the above\n
+Correct : d) All of the above\n\n
+424. What is cloud storage ?\n
+a) A powerful, simple and cost-effective object storage service built for Google scale.\n
+b) It is a monitor which is the source of their data a
+        nd deliver the content changes\n
+c) Provides a useful storage buffer which that c
+        ontains of a file may be read and write\n
+d) None of the mentioned\n
+Correct : a) A powerful, simple and cost-effective
+        object storage service built for Google scale.\n\n
+425. What to use Google security to file uploads and downloads for your Firebase apps ?\n
+a) Security key b) Firebase SDKs c) Software d) a and b\n
+Correct : b) Firebase SDKs\n\n
+426. What will you use to store images, audio,
+        video, or other user-generated content ?\n
+a) SDK b) Storage device c) Local storage d) All of the above\n
+Correct : a) SDK\n\n
+427. What will use to access the same files on the server ?\n
+a) Local storage b) Google cloud storage c) Sandbox d) Local Driver\n
+Correct : b) Google cloud storage\n\n
+428. What is SDK ?\n
+a) Software Development key b) Software Development kitten\n
+c) Software Development kit d) Software Development ket\n
+Correct : c) Software Development kit\n
+429. The Firebase Real-time database is a-\n
+a) SDK b) Cloud storage c) Cloud hosted database d) b and c\n
+Correct : c) Cloud hosted database\n\n
+430. What is Fairbase Real-time database?\n
+a) A powerful , simple and cost –effective object
+        storage service built for Google scale\n
+b) A content provider or other data source for display
+        in an Fragment Activity or fragment\n
+c) Is synced across all clients in realtime and remains available
+        when your app goes offline\n
+d) Is synced across all clients in realtime and remains
+        available when your app goes offline and online\n
+Correct : c) Is synced across all clients in rea
+        ltime and remains available when your app goes offline\n\n
+431. How we can store firebase ?\n
+a) DDL b) SSD c) SDK d) JSON\n
+Correct : d) JSON\n\n
+432. The Realtime Database provides\n
+a) Flexible b) Hard c) Simple d) None\n
+Correct : a) Flexible\n\n
+433. The Realtime Database example is\n
+a) Dynamic database b) MySql c) NoSQL d) Oracle\n
+Correct : c) NoSQL\n\n
+434. “JSON” stands for\n
+a) JavaScript Object Notation b) JavaScript Oriented Notation\n
+c) Option 1 is false d) a and b is true\n
+Correct : a) JavaScript Object Notation\n\n
+435. Firebase Authentication provides-\n
+a) Backend services, easy to use SDKs and readymade UI liberies to
+        authenticate users to your app\n
+b) An implementation that uses an Asynctask to do its work\n
+c) that makes sign in easy for your users using their Google account \n
+        d) None of the above\n
+Correct : a) Backend services, easy to use SDKs and
+        readymade UI liberies to authenticate\n\n
+436. FCM stands for\n
+a) Firebase Control Machine b) Firebase Cloud Machine\n
+c) Firebase Cloud Messaging d) Fairbase Cloud Machine\n
+Correct : c) Firebase Cloud Messaging\n\n
+437. What is FCM ?\n
+a) a free app measurement solution that provides insight on app usage\n
+b) is making sign in easy for your users using their google account\n
+c) is a monetize your mobile app through in-app advertising\n
+d) is a cross –platform messaging solution that lets you
+        reliably deliver messages at no cost\n
+Correct : d) is a cross –platform messaging solution that
+        lets you reliably deliver messages at no cost\n\n
+438. Which one is use of sending notification
+        messages to drive user re-engagement and retention ?\n
+a) FRM b) FMC c) FCM d) JSON\n
+Correct : c) FCM\n\n
+439. What is Google Analytics for Firebase ?\n
+a) Is a free app measurement solution that provides insight
+        on app usage and user engagement.\n
+b) Is a trusted environment such as Cloud Functions \n
+        for Firebase or an app server on which to build, target, and send messages.\n
+c) Is an iOS, Android, or web (JavaScript) client app that receives messages d) none\n
+Correct : a) Is a free app measurement solution that\n
+        provides insight on app usage and user engagement\n\n
+440. Which of the following statement is true ?\n
+a) At the heart of Firebase is Google Analytics for Firebase,
+        a free and unlimited analytics solution.\n
+b) The Loader API lets you load data from a content
+        provider or other data source for display in an FragmentActivity or Fragment.\n
+c) Data is synced across all clients in realtime,
+        and remains available when your app goes offline.\n
+d) All of the above\n
+Correct : a) At the heart of Firebase is Google Analytics for Firebase,\n
+        a free and unlimited analytics solution\n\n\n
+441. How many distinct events that you can define using the Firebase SDK ?\n
+a) 300 events b) 400 events c) 500 events d) 600 events\n
+Correct : c) 500 events\n\n
+442. How does analytics work ?\n
+a) help up to debug app b) Encapsulating the values\n
+c) helps you understand how people use your iOS or Android app. d) None of the above\n
+Correct : c) helps you understand how people use your iOS or Android app.\n
+443. How many types of Google Analytics for firebase ?\n
+a) 2 b) 3 c) 4 d) 5\n
+Correct : a) 2\n
+444. Analytics reports help-\n
+a) Understand user behavior and view live usage data with real time reporting\n
+b) Understand clients problem \nc) Identifying the problem easily \nd) a and b is both\n
+Correct : a) Understand user behavior and view live usage data with real time reporting.
+\n445. What is AdMob ?\n
+a) Is Google’s advertising platform for promoting and monetizing mobile applications\n
+b) Is a free app measurement solution provides insight apps usages.\n
+c) Is a google ‘s platform which is moving on side from another side\n\n
+d) A and B is true\n
+Correct : c) Is a google ‘s platform which is moving on side from another side\n\n
+446. How AdMob can be displayed ?\n
+a) As audio, picture and design etc\n b) Movie, maps, poems etc\n
+c) Audio, maps, poems, movie, banner ads etc \n
+        d) as banner ads, interstitial ads, video ads, or native ads\n
+Correct : d) as banner ads, interstitial ads, video ads, or native ads\n\n
+447. Admob uses –\n
+a) Mobile ads b) SDK c) Google Mobile Ads SDK. d) Video ads\n
+Correct : c) Google Mobile Ads SDK.\n\n
+448. Which helps app developers gain insights about their users,
+        drive more in-app purchases, and maximize ad revenue.\n
+a) Google Mobile Ads SDK b) DDL c) DML d) Provider\n
+Correct : a) Google Mobile Ads SDK\n
+449. Apps can import the Google Mobile Ads SDK with a
+        Gradle dependency that points to_______________ repository\n
+a) Google Mobile Ads SDK b) Google's Maven c) Google's Maven d) None\n
+Correct : b) Google's Maven\n\n
+450. Google Mobile Ads SDK support across-\n
+a) Android b) Ios c) Game engine d) All of the above\n
+Correct : d) All of the above\n
+451. Which is a technical discussion regarding
+        the Android Google Mobile Ads SDK in google play service\n
+a) Android b) Ios c) Game engine d) All of the above\n\n
+Correct : a) Android\n\n
+452. What is Unity and Cocos2d-x ?\n
+a) Ios b) Android c) Game engine d) Google mobile ads sdk\n\n
+Correct : c) Game engine\n\n
+453. Once installed on a device, each Android application lives in_________\n
+a) device memory b) external memory
+        \nc) security sandbox d) None of the above\n
+Correct : c) security sandbox\n\n
+454. What are the Direct subclasses of Activity?\n
+a) Account Authenticator Activity b) Activity Group
+        \nc) Fragment Activity d) All of the above\n
+Correct : d) All of the above\n\n
+455. When content Provider would be activated ?\n
+a) Using Intent b) Using SQLite
+        \nc) Using Content Resolver d) none of the above\n
+Correct : c) Using ContentResolver\n
+456. What is the function of AdMob ?\n
+a) Monetizing mobile app b) Purchasing mobile app\n
+c) Modifying mobile app d) Creating mobile app\n
+Correct : a) Monetizing mobile app\n\n
+457. How Ads can be displayed using AdMob ?\n
+a) Banner Ads b) Video Ads b) Video Ads
+        \nc) Native Ads d) All of the above\n
+Correct : d) All of the above\n\n
+458. What is the unique identifier of AdMob Account ?\n
+a) Ad Unit Ids b) Mob Unit Ids c) Native Ids d) None of the above\n
+Correct : a) Ad Unit Ids\n\n
+459. What does AdMob use ?\n
+a) Windows Mobile Ads SDK b) Google Mobile Ads SDK \n
+        c) Both a and b d) None of the above\n
+Coorect : b) Google Mobile Ads SDK\n\n
+560. How Google Mobile Ads SDK helps app developers ?\n
+a) Gaining insight about their users b) Driving more in app purchase\n
+c) Maximizing and Revenue d) All of the above\n
+Correct : d) All of the above\n\n
+461. What type of information Mobile Ads SDK collect ?\n
+a) Device information b) App purchase information \n
+        c) Both a and b d) None of the above\n
+Correct : c) Both a and b\n\n
+462. How Google Mobile Ads SDK helps app developers ?\n
+a) Gaining insight about their users b) Driving more in app purchase\n
+c) Maximizing and Revenue d) All of the above\n
+Correct : d) All of the above\n\n
+463. Which uses the path part of the content uri developers ?\n
+a) Content Resolver b) Content URI c) Data Dictionary d) Content Provider\n
+Correct : d) Content Provider\n\n
+464. What does Content Uri identifies ?\n
+a) Data b) Path c) Both a and b d) None of the above\n
+Correct : a) Data\n\n
+465. Why projection is used ?\n
+a) Retriving each column b) Retriving each row c) Selecting rows d) Selecting columns\n
+Correct : b) Retriving each row\n\n
+466. What does selection command specifies ?\n
+a) Retriving rows b) Retriving columns c) Selecting columns d) Selecting rows\n
+Correct : d) Selecting rows\n\n
+467. What type of dependency is required to import an android app ?\n
+a) App Building Dependency b) Gradle Dependency c) Both a and b d) None of the above\n
+Correct : b) Gradle Dependency\n\n
+468. What does google analytics provide for firebase ?\n
+a) Driving more app in purchase b) Maximizing and Revenue\n
+c) User engagement d) Retriving information\n
+Correct : c) User engagement\n\n
+469. What is google analytics ?\n
+a) Free App Measurement Solution a) Paid App Measurement Solution\n
+c) Both a and b d) None of the above\n
+Correct : a) Free App Measurement Solution\n\n
+470. How many features provide when you use the Firebase SDK ?\n
+a) About 300 a) About 400 a) About 500\n
+Correct : a) About 500\n\n
+471. Which of the following features is integrated with Google Analytics ?\n
+a) Mongo DB b) MS SQL Server c) Firebase d) None of the above\n
+Correct : c) Firebase\n\n
+472. How google analytics help you to make your app better ?\n
+a) Interaction of the user b) Informing decision about app marketing\n
+c) Optimizing performance d) All of the above\n
+Correct : d) All of the above\n\n
+473. What does FCM stands for ?\n
+a) Firebase Clone Messaging b) Firebase Cloud Management\n
+c) Firebase Cloud Messaging d) None of the above\n
+Correct : c) Firebase Cloud Messaging\n\n
+474. What does Firebase Authentication provide ?\n
+a) Frontend Services b) Backend Services c) Readymade UI libraries d) Both b and c\n
+Correct : d) Both b and c\n
+475. What does Firebase Authentication Supports ?\n
+a) Password b) Phone Number c) ID Card d) Both a and b\n
+Correct : d) Both a and b\n
+476. Which IDE is used for Android development ?\n
+a) Eclipse b) Andoroid Studio c) Netbeans d) a and b\n
+Correct : d) a and b\n\n
+477. What is the name of Android version 8 ?\n
+a) Nougat b) Oreo c) Marshmallow d) Kitkat\n
+Correct : b) Oreo\n\n
+478. What is the API level of Oreo ?\n
+a) 26 b) 22 c) 25 d) 21\n
+Correct : a) 26\n\n
+479. Which level allows high level interaction with andoird system ?\n
+a) Runtime b) Libraries c) Application Framework d) None of the above\n
+Correct : c) Application Framework\n\n
+480. Which language is used for native Android development ?\n
+a) C# b) Java c) HTML , Javascript d) PhoneGap\n
+Correct : b) Java\n\n
+481. Which one is a OOP feature ?\n
+a) Abstraction b) Polymorphism c) Inheritence d) All of the above\n
+Correct : d) All of the above\n\n
+482. What is Encapsulation ?\n
+a) Everything inside an unit b) Inherit all criteria from parent\n
+c) Take any relevant form d) None of the above\n
+Correct : a) Everything inside an unit\n\n
+483. What is abstraction ?\n
+a) Everything inside an unit b) Inherit all criteria from parent\n
+c) Hiding internal details d) All of the above\n
+Correct : c) Hiding internal details\n\n
+484. What is polymorphism ?\n
+a) Everything inside an unit b) Object behaving differently in different situaltions\n
+c) Hiding internal details d) Inherit all criteria from parent\n
+Correct : b) Object behaving differently in different situaltions\n\n
     </string>
 
 
